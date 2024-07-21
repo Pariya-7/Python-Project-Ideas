@@ -2,9 +2,7 @@
 # Both single (') or double (") or triple (""") quotes are used
 # examples: "dinosaurs", '2112', "I'm lovin' it!"
 
-kanye_quote = """My greatest pain in life 
-is that I will never be able 
-to see myself perform live."""
+kanye_quote = """This is a cute cat, and I like it."""
 
 print(kanye_quote)
 
